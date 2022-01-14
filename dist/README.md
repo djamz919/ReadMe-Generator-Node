@@ -8,13 +8,14 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contributing](#contributing)
+  * [Tests](#tests)
   * [Questions](#questions)
   
   ## Installation
   To install any dependencies, run the command: npm i.
 
   ## Usage
-  Run "node index.js" in the CLI to begin creating your README.md file.
+  Run "node index.js" in the CLI after cloning the repository to begin creating your README.md file.
   
   ## License
   ![License: APACHE 2.0](https://img.shields.io/badge/license-APACHE_2.0-green)
