@@ -15,6 +15,8 @@
   ## Usage
   After cloning this project, navigate to the directory of the project in your CLI. Then run the command "node index.js". After running the command, you should be prompted with questions. The answers to these questions will be the content to be put in the README.md file. After completing all questions, the README.md file should be generated in the dist/ directory.
 
+To watch a sample walkthrough video: https://drive.google.com/file/d/1OcufaDZzbjozalGUAUMWJzZoTQwVK4sF/view
+
   ## Questions
   For any questions, reach out to github.com/djamz919 via the following email address: djtm97@gmail.com.
   
